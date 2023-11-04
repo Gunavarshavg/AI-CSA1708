@@ -1,0 +1,19 @@
+colour(cherry, red).
+colour(banana, yellow).
+colour(apple, red).
+colour(apple, green).
+colour(orange, orange).
+colour(X, unknown).
+
+OUTPUT:
+?- colour(X,Y).
+X = cherry,
+Y = red ;
+X = banana,
+Y = yellow ;
+X = apple,
+Y = red ;
+X = apple,
+Y = green ;
+X = Y, Y = orange ;
+Y = unknown.
