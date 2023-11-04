@@ -88,3 +88,59 @@ elif(Game==Win):
         print("Player 1 Won")    
     else:    
         print("Player 2 Won")
+
+OUTPUT:
+
+Tic-Tac-Toe Game Designed By Sourabh Somani
+Player 1 [X] --- Player 2 [O]
+
+
+
+Please Wait...
+   |   |   
+___|___|___
+   |   |   
+___|___|___
+   |   |   
+   |   |   
+Player 1's chance
+Enter the position between [1-9] where you want to mark : 2
+   | X |   
+___|___|___
+   |   |   
+___|___|___
+   |   |   
+   |   |   
+Player 2's chance
+Enter the position between [1-9] where you want to mark : 6
+   | X |   
+___|___|___
+   |   | O 
+___|___|___
+   |   |   
+   |   |   
+Player 1's chance
+Enter the position between [1-9] where you want to mark : 1
+ X | X |   
+___|___|___
+   |   | O 
+___|___|___
+   |   |   
+   |   |   
+Player 2's chance
+Enter the position between [1-9] where you want to mark : 9
+ X | X |   
+___|___|___
+   |   | O 
+___|___|___
+   |   | O 
+   |   |   
+Player 1's chance
+Enter the position between [1-9] where you want to mark : 3
+ X | X | X 
+___|___|___
+   |   | O 
+___|___|___
+   |   | O 
+   |   |   
+Player 1 Won
