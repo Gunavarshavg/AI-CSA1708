@@ -37,3 +37,12 @@ if __name__ == "__main__":
             print("".join(str(solution[letter]) for letter in word))
     else:
         print("No solution exists.")
+
+OUTPUT:
+SIX
+SEVEN
+SEVEN
+---------
+TWENTY
+---------
+Yes Can be solved
