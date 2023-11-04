@@ -45,3 +45,8 @@ if __name__ == "__main__":
 
     solution = water_jug_problem(capacity_x, capacity_y, target)
     print_solution(solution, capacity_x, capacity_y)
+
+OUTPUT:
+Solution:
+Jug X: 4/4
+Jug Y: 2/3
